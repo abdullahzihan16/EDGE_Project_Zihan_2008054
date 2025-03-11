@@ -1,1 +1,3 @@
-# EDGE_waste_classification_detection_Zihan_2008054
+# EDGE Course Project
+waste_classification_and_detection
+dataset used: https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
